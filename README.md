@@ -8,5 +8,3 @@ Modeling ants scouting for food in a city and returning to nest.
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
-## Getting Started
-
