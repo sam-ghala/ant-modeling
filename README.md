@@ -11,5 +11,10 @@ To run your own model, open up the ABM_city_of_choice notebook and edit where fi
 * **Sam Ghalayini**
 
 ## Example runs thus far
-### Bangkok, Thailand, 7 ants 7 food sources
+
+#### Boston, MA, 20 ants released incrementally, 5 food sources, 700km radius
+
+![](https://user-images.githubusercontent.com/41443034/111391594-546df300-868b-11eb-8992-f13e4b557079.mp4)
+
+#### Bangkok, Thailand, 7 ants 7 food sources
 ![](https://user-images.githubusercontent.com/41443034/111390853-d52bef80-8689-11eb-94d4-d9235fd75bba.mp4)
