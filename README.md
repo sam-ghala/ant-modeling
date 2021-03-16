@@ -9,3 +9,7 @@ To run your own model, open up the ABM_city_of_choice notebook and edit where fi
 ## Authors
 
 * **Sam Ghalayini**
+
+## Example runs thus far
+### Bangkok, Thailand, 7 ants 7 food sources
+![](https://user-images.githubusercontent.com/41443034/111390853-d52bef80-8689-11eb-94d4-d9235fd75bba.mp4)
