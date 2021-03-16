@@ -1,4 +1,4 @@
-# Project Title
+# Modeling Ant Scouting Behavior in Cities
 
 Modeling ants scouting for food in a city and returning to nest.
 
